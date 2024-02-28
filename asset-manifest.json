@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/x-blum-x/static/css/main.32cfbb55.css",
+    "main.js": "/x-blum-x/static/js/main.8c7cfd86.js",
+    "static/js/453.b1a334eb.chunk.js": "/x-blum-x/static/js/453.b1a334eb.chunk.js",
+    "static/media/fundo.jpg": "/x-blum-x/static/media/fundo.44efca62491edf202b29.jpg",
+    "static/media/fundo_js.jpg": "/x-blum-x/static/media/fundo_js.b016721fc170f0caf30e.jpg",
+    "static/media/fundo_react.jpg": "/x-blum-x/static/media/fundo_react.09e8619b502f12be7d3f.jpg",
+    "static/media/fundo_python.jpg": "/x-blum-x/static/media/fundo_python.cbff56b4ce38f2e22828.jpg",
+    "static/media/instagram.png": "/x-blum-x/static/media/instagram.f5ef3733532877aa232f.png",
+    "static/media/matrixFont.ttf": "/x-blum-x/static/media/matrixFont.77b36b5eb15b0d99bd9a.ttf",
+    "static/media/react.png": "/x-blum-x/static/media/react.b37f0a4b7134b3c99d6e.png",
+    "static/media/linkedin.png": "/x-blum-x/static/media/linkedin.4506ebc862bab12b6eeb.png",
+    "static/media/python.png": "/x-blum-x/static/media/python.f7f12e1bf59e577656a2.png",
+    "index.html": "/x-blum-x/index.html",
+    "main.32cfbb55.css.map": "/x-blum-x/static/css/main.32cfbb55.css.map",
+    "main.8c7cfd86.js.map": "/x-blum-x/static/js/main.8c7cfd86.js.map",
+    "453.b1a334eb.chunk.js.map": "/x-blum-x/static/js/453.b1a334eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32cfbb55.css",
+    "static/js/main.8c7cfd86.js"
+  ]
+}
