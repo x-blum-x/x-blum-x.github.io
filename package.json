@@ -1,6 +1,7 @@
 {
   "name": "personal-blog",
   "version": "0.1.0",
+  "homepage": "hhtps://x-blum-x.github.io/x-blum-x",
   "private": true,
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
@@ -22,6 +23,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
