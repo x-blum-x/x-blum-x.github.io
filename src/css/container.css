@@ -1,0 +1,108 @@
+.container {
+  font-family: "Quicksand";
+  font-weight: 600;
+  border-radius: 50px;
+  width: auto;
+  height: auto;
+  position: fixed;
+  z-index: 2;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-shadow: 4px 4px 11px rgba(0,0,0,0.49);
+  box-shadow: 10px 10px 29px -1px rgba(0,0,0,0.61);
+  -webkit-box-shadow: 10px 10px 29px -1px rgba(0,0,0,0.61);
+  -moz-box-shadow: 10px 10px 29px -1px rgba(0,0,0,0.61);
+  display: grid;
+}
+#container_1{
+  background-image: url("../icons/fundo.jpg");
+  background-size: 100%;
+}
+#container_2{
+  background-image: url("../icons/fundo_python.jpg");
+  background-size: 100%;
+}
+#container_3{
+  background-image: url("../icons/fundo_js.jpg");
+  background-size: 100%;
+}
+#container_4{
+  background-image: url("../icons/fundo_react.jpg");
+  background-size: 100%;
+}
+.content{
+  display: flex;
+  padding: 20px;
+  background: linear-gradient(180deg,#e7e7e7 0%, #000000 80%);
+  background: -webkit-linear-gradient(90deg,#e7e7e7 0%, #000000 80%);
+  background: -moz-linear-gradient(90deg,#e7e7e7 0%, #000000 80%);
+
+}
+.profile-img {
+  width: 200px;
+  height: 200px;
+  margin-top: 10px;
+}
+.info {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+.info a, ul, label {
+  text-decoration: none;
+  color: white;
+  cursor: auto;
+}
+.icons{
+  width: 35px;
+  height: 35px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+.icons:hover{
+  cursor: pointer;
+}
+.container.slide-out {
+  animation: exit 1s ease 0s 1 normal forwards;
+}
+@keyframes exit {
+	0% {
+		opacity: 1;
+		transform: translate(-50%, -50%);
+	}
+
+	100% {
+		opacity: 0;
+		transform: translate(-150%, -50%);
+	}
+}
+.container.slide-in {
+  animation: entrance 1s ease 0s 1 normal forwards;
+}
+@keyframes entrance {
+	0% {
+		opacity: 0;
+		transform: translate(150%, -50%);
+	}
+
+	100% {
+		opacity: 1;
+		transform: translate(-50%, -50%);
+	}
+}
+.hide_button{
+  background-color: rgba(10,23,55,0);
+  outline: none;
+  border: none;
+}
+.div_grid{
+  display: grid;
+  justify-content: center;
+}
+.div_flex{
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
