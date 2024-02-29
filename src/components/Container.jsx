@@ -46,11 +46,11 @@ const Container = () => {
                 <li>Web Moderno (HTML, CSS, JavaScript, Node, React, Gulp, Webpack, Bootstrap, Vue, Express, SQL)</li>
                 <li>Redes neurais e artificias em Python</li>
                 <li>Windows Server 2019</li>
-                <li>Container Docker</li>
+                <li>Docker</li>
               </ul>
               <a style={{fontSize:'15px'}}>Experiências</a>
               <ul>
-                <li>Professor de linguas estrangeiras (Inglês) - CCAA Nova Mutum (2016 - 2017)</li>
+                <li>Professor de linguas estrangeiras (Inglês) - CCAA (2016 - 2017)</li>
                 <li>Coordenador Censitário - IBGE (06/2022 - 04/2023)</li>
                 <li>Administrador - Gercadi (07/2023 - atualidade)</li>
               </ul>

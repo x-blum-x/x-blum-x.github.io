@@ -1,7 +1,7 @@
 {
   "name": "personal-blog",
   "version": "0.1.0",
-  "homepage": "https://x-blum-x.github.io/x-blum-x",
+  "homepage": "https://x-blum-x.github.io/x-blum-x.github.io",
   "private": true,
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
